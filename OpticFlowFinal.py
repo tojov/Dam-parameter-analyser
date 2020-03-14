@@ -61,7 +61,5 @@ def valRet():
       return(velocity,currentVolume,forecastVolume,flag)
     
 
-#cap.release()
-#cv2.destroyAllWindows()
 
 
